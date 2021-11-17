@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class CicdspringbootApplication {
-
+    // Added comment to trigger github workflow
     public static void main(String[] args) {
         SpringApplication.run(CicdspringbootApplication.class, args);
     }
